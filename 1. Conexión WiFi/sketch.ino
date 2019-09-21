@@ -11,7 +11,6 @@ void setup() {
   Serial.begin(9600);
   delay(2000);
 
-  // Intenta conectarse a la red WiFi
   while (status != WL_CONNECTED) {
     Serial.print("Intentando conectar a: ");
     Serial.println(SECRET_SSID);
@@ -28,7 +27,8 @@ void loop() {
   // está conectado a WiFi.
 }
 
-void printWifiStatus() {
+void printWifiStatus() // muestra el status de la conexión WiFi
+{
   // muestra el nombre de la red a la que esta conectado
   Serial.print("SSID: ");
   Serial.println(WiFi.SSID());
@@ -38,16 +38,18 @@ void printWifiStatus() {
   Serial.print("IP asignada: ");
   Serial.println(ip);
 
-  // muestra la intensidad de la senal
+  // muestra la intensidad de la señal
   long rssi = WiFi.RSSI();
   Serial.print("intensidad de la señal (RSSI):");
   Serial.print(rssi);
   Serial.println(" dBm");
 }
 
-void printMacAddress() {
+void printMacAddress() // muestra la dirección MAC de la placa
+{
   byte macB[6];
   WiFi.macAddress(macB);
+  
   for (int i = 0; i < 6; i++) {
     String pos = String((uint8_t)macB[i], HEX);
     if (macB[i] <= 0xF) pos = "0" + pos;
@@ -55,5 +57,6 @@ void printMacAddress() {
     mac += pos;
     if (i < 5) mac += ":";
   }
+  
   Serial.println(mac); // dirección MAC del dispositivo
 }
