@@ -15,8 +15,8 @@ void setup() {
   while (status != WL_CONNECTED) {
     Serial.print("Intentando conectar a: ");
     Serial.println(SECRET_SSID);
-    status = WiFi.begin(SECRET_SSID, SECRET_PASS); // Conectar a red WPA/WPA2
-    delay(5000); // espera durante 5 segundos para conectarse
+    status = WiFi.begin(SECRET_SSID, SECRET_PASS); // Intenta conectar a red WiFi
+    delay(5000); // espera 5 segundos para conectarse
   }
   printWifiStatus(); // muestra el estado de la conexion WiFi
   printMacAddress(); // muestra la dirección MAC del dispositivo
