@@ -4,8 +4,7 @@
 El código incluído en este repositorio se ofrece **"COMO ESTÁ"**, sin garantías o responsabilidad de ningún tipo. Usted es el único responsable de usarlo. Los scripts, incluyendo URLs y otras referencias a sitios en Internet, podrían cambiar sin previo aviso. Este documento no le autoriza a nada y no le faculta con ningún derecho legal ni propiedad intelectual. Puede copiar y usar este código con el único fin de usarlo como referencia personal.
 
 ### DESCRIPCIÓN: 🚀
-1. Enciende y apaga el LED integrado de la placa usando el protocolo MQTT y la plataforma IoT de Adafruit.
-2. Se combina con la plataforma de IFTTT y usa como disparador el Asistente de Google.
+Enciende y apaga el LED integrado de la placa usando el protocolo MQTT y la plataforma IoT de Adafruit. Se combina con la plataforma de IFTTT y usa como disparador el Asistente de Google.
 
 **HARDWARE:** ⚙
 - Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
