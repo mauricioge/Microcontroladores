@@ -12,12 +12,19 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 
 **SOFTWARE:**
 - Aplicaciones:
-    + Arduino IDE
-    + Python IDLE
-    + MySQL (motor + herramientas cliente), un editor de texto plano.
+    + [Arduino IDE](https://www.arduino.cc/en/main/software/)
+        * Librerias:
+            - MySQL Connector (de Dr. Charles Bell)
+            - Firebase (de Mobitz)
+            - [Adafruit Sensor (de Adafruit)](https://github.com/adafruit/Adafruit_Sensor)
+            - Adafruit DHT (de Adafruit)
+            - Adafruit MQTT Library (de Adafruit)
+    + [Python](https://www.python.org/downloads/)
+    + [MySQL (motor + herramientas cliente)](https://dev.mysql.com/downloads/workbench/)
+    + un editor de texto plano.
 - Placas (arduino drivers):
-    + ESP8266
-    + ESP32
+    + [ESP8266](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
+    + [ESP32](http://dl.espressif.com/dl/package_esp32_index.json)
 - Librerías Arduino: MySQL Connector, Firebase, Adafruit Sensor, etc.
 - Librerías Python: pySerial, MySQL Connector, etc.
 - Cuentas gratuitas:
