@@ -28,6 +28,8 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
     + [MySQL (motor + herramientas cliente)](https://dev.mysql.com/downloads/workbench/)
     + Editor de texto plano (Ej. Block de notas).
 - Librerías para Arduino:
+    + [WiFi101 (de Arduino)](https://github.com/arduino-libraries/WiFi101)
+    + [WiFi (de Espressif)](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)
     + [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
     + [ArduinoJson (de Benoit Blanchon)](https://github.com/bblanchon/ArduinoJson)
     + [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
