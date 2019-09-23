@@ -7,8 +7,10 @@ El código incluído en este repositorio se ofrece **"COMO ESTÁ"**, sin garant�
 Se conecta a la red WiFi. Crea un servidor web al cual puede acceder usando la dirección IP que se le asigna y muestra como encender/apagar el LED integrado de la placa desde Internet.
 
 **HARDWARE:** ⚙
-- Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
-- Actuadores, sensores o módulos: LED integrado (pin 6).
+- Placas:
+    1. Arduino MKR1000 (pin 6)
+    2. NodeMCU V1 (pin2)
+    3. ESP WROOM 32 (pin2)
 
 **SOFTWARE:** 💾
 - Aplicaciones:
