@@ -1,1 +1,1 @@
-# Arduino: preparación del entorno
+# Arduino: Preparación del entorno
