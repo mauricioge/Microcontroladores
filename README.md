@@ -25,6 +25,8 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 - Aplicaciones:
     + [Arduino IDE](https://www.arduino.cc/en/main/software/)
     + [Python](https://www.python.org/downloads/)
+    + [MySQL (motor + herramientas cliente)](https://dev.mysql.com/downloads/workbench/)
+    + Editor de texto plano (Ej. Block de notas).
 - Librerías para Arduino:
     + [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
     + [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
@@ -34,8 +36,6 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 - Librerías para Python:
     + [pyserial](https://pypi.org/project/pyserial/)
     + [mysql connector python](https://pypi.org/project/mysql-connector-python/)
-    + [MySQL (motor + herramientas cliente)](https://dev.mysql.com/downloads/workbench/)
-    + un editor de texto plano.
 - Placas (Arduino IDE/Archivo/Preferencias/Gestor de URLs Adicionales de Tarjetas/):
     + [ESP8266](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
     + [ESP32](http://dl.espressif.com/dl/package_esp32_index.json)
