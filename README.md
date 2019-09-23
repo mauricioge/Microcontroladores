@@ -14,11 +14,11 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 - Aplicaciones:
     + [Arduino IDE](https://www.arduino.cc/en/main/software/)
         * Librerias:
-            - MySQL Connector (de Dr. Charles Bell)
-            - Firebase (de Mobitz)
+            a. [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
+            b. [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
             - [Adafruit Sensor (de Adafruit)](https://github.com/adafruit/Adafruit_Sensor)
-            - Adafruit DHT (de Adafruit)
-            - Adafruit MQTT Library (de Adafruit)
+            - [Adafruit DHT (de Adafruit)](https://github.com/adafruit/DHT-sensor-library)
+            - [Adafruit MQTT Library (de Adafruit)](https://github.com/adafruit/Adafruit_MQTT_Library)
     + [Python](https://www.python.org/downloads/)
     + [MySQL (motor + herramientas cliente)](https://dev.mysql.com/downloads/workbench/)
     + un editor de texto plano.
