@@ -4,7 +4,7 @@
 El código incluído en este repositorio se ofrece **"COMO ESTÁ"**, sin garantías o responsabilidad de ningún tipo. Usted es el único responsable de usarlo. Los scripts, incluyendo URLs y otras referencias a sitios en Internet, podrían cambiar sin previo aviso. Este documento no le autoriza a nada y no le faculta con ningún derecho legal ni propiedad intelectual. Puede copiar y usar este código con el único fin de usarlo como referencia personal.
 
 ### DESCRIPCIÓN: 🚀
-2. Envía datos a Python por medio del puerto serial, los procesa y los muestra.
+Envía datos a Python por medio del puerto serial, los procesa y los muestra en pantalla.
 
 **ARCHIVOS:** ⚙
 1. **sketch.ino**
@@ -18,7 +18,7 @@ El código incluído en este repositorio se ofrece **"COMO ESTÁ"**, sin garant�
     3. Ejecútelo.
 
 **HARDWARE:** ⚙
-- Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
+- Placas: Arduino UNO R3, Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
 
 **SOFTWARE:** 💾
 - Aplicaciones:
