@@ -29,6 +29,7 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
     + Editor de texto plano (Ej. Block de notas).
 - Librerías para Arduino:
     + [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
+    + [ArduinoJson (de Benoit Blanchon)](https://github.com/bblanchon/ArduinoJson)
     + [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
     + [Adafruit Sensor (de Adafruit)](https://github.com/adafruit/Adafruit_Sensor)
     + [Adafruit DHT (de Adafruit)](https://github.com/adafruit/DHT-sensor-library)
