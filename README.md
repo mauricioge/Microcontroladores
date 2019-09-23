@@ -25,6 +25,6 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 3. **[Comunicación Serial](https://github.com/mauricioge/microcontroladores/tree/master/3.%20Comunicaci%C3%B3n%20Serial)** Envío de datos a Python.
 4. **[Conectores: MySQL](https://github.com/mauricioge/microcontroladores/tree/master/4.%20Conectores:%20MySQL)** Comunicación directa con el motor de MySQL.
 5. **[Conectores: Firebase](https://github.com/mauricioge/microcontroladores/tree/master/5.%20Conectores:%20Firebase)** Comunicación directa con el motor de Firebase.
-6. **[6. Servicios IoT](https://github.com/mauricioge/microcontroladores/tree/master/6.%20Servicios%20IoT)** Comunicación por medio de plataformas de terceros.
-7. **[7. Creando mi servicio IOT](https://github.com/mauricioge/microcontroladores/tree/master/7.%20Creando%20mi%20servicio%20IoT)** Caso de estudio.
-8. **[8. Control de Acceso](https://github.com/mauricioge/microcontroladores/tree/master/8.%20Control%20de%20Acceso)** Caso de estudio.
+6. **[Servicios IoT](https://github.com/mauricioge/microcontroladores/tree/master/6.%20Servicios%20IoT)** Comunicación por medio de plataformas de terceros.
+7. **[Creando mi servicio IOT](https://github.com/mauricioge/microcontroladores/tree/master/7.%20Creando%20mi%20servicio%20IoT)** Caso de estudio.
+8. **[Control de Acceso](https://github.com/mauricioge/microcontroladores/tree/master/8.%20Control%20de%20Acceso)** Caso de estudio.
