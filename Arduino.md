@@ -1,1 +1,3 @@
-# Arduino: Preparación del entorno
+# Arduino: Preparando el entorno de trabajo
+
+## 👷‍🧱🚧🛑 EN CONSTRUCCIÓN 🛑🚧🧱👷‍
