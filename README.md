@@ -1,7 +1,7 @@
 # MICROCONTROLADORES
 
 ## RENUNCIA DE RESPONSABILIDAD: 📢
-El código incluído en este repositorio se ofrece **"como está"**, sin garantías o responsabilidad de ningún tipo. Usted es el único responsable de usarlo. Los scripts, incluyendo URLs y otras referencias a sitios en Internet, podrían cambiar sin previo aviso. Este documento no le autoriza a nada y no le faculta con ningún derecho legal ni propiedad intelectual. Puede copiar y usar este código con el único fin de usarlo como referencia personal.
+El código incluído en este repositorio se ofrece **"COMO ESTÁ"**, sin garantías o responsabilidad de ningún tipo. Usted es el único responsable de usarlo. Los scripts, incluyendo URLs y otras referencias a sitios en Internet, podrían cambiar sin previo aviso. Este documento no le autoriza a nada y no le faculta con ningún derecho legal ni propiedad intelectual. Puede copiar y usar este código con el único fin de usarlo como referencia personal.
 
 ### DESCRIPCIÓN: 🚀
 Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontroladores con otras Tecnologías.**
@@ -13,25 +13,26 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 **SOFTWARE:**
 - Aplicaciones:
     + [Arduino IDE](https://www.arduino.cc/en/main/software/)
-        * Librerias:
-            a. [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
-            b. [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
+        * Librerías:
+            - [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
+            - [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
             - [Adafruit Sensor (de Adafruit)](https://github.com/adafruit/Adafruit_Sensor)
             - [Adafruit DHT (de Adafruit)](https://github.com/adafruit/DHT-sensor-library)
             - [Adafruit MQTT Library (de Adafruit)](https://github.com/adafruit/Adafruit_MQTT_Library)
     + [Python](https://www.python.org/downloads/)
+        * Librerías:
+            - [pyserial](https://pypi.org/project/pyserial/)
+            - [mysql connector python](https://pypi.org/project/mysql-connector-python/)
     + [MySQL (motor + herramientas cliente)](https://dev.mysql.com/downloads/workbench/)
     + un editor de texto plano.
 - Placas (arduino drivers):
     + [ESP8266](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
     + [ESP32](http://dl.espressif.com/dl/package_esp32_index.json)
-- Librerías Arduino: MySQL Connector, Firebase, Adafruit Sensor, etc.
-- Librerías Python: pySerial, MySQL Connector, etc.
 - Cuentas gratuitas:
-    + Firebase
-    + Adafruit IO
-    + IFTTT
-    + Hosting
+    + [Firebase](https://firebase.google.com/)
+    + [Adafruit IO](https://io.adafruit.com/)
+    + [IFTTT](https://ifttt.com/)
+    + [Hosting](https://www.000webhost.com/)
 
 **CONTENIDOS:**
 
