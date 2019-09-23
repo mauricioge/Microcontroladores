@@ -18,7 +18,7 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 8. **[Control de Acceso](https://github.com/mauricioge/microcontroladores/tree/master/8.%20Control%20de%20Acceso)** Caso de estudio.
 
 **HARDWARE:** ⚙
-- Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
+- Placas: [Arduino MKR1000](https://store.arduino.cc/usa/arduino-mkr1000), ESP-01, NodeMCU V1, ESP WROOM 32.
 - Actuadores, sensores o módulos: LEDs integrados, DHT11, MFRC522.
 
 **SOFTWARE:** 💾
@@ -44,3 +44,6 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
     + [Adafruit IO](https://io.adafruit.com/)
     + [IFTTT](https://ifttt.com/)
     + [Hosting](https://www.000webhost.com/)
+    
+**DÓNDE ENCONTRAR + INFO:** 🔥
+- [Cursos usando el ESP8266EX (en inglés)](https://www.espressif.com/en/support/iot-college/courses?field_type_tid=14&field_course_language_tid=All)
