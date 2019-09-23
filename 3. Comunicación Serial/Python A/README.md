@@ -19,8 +19,11 @@ Enciende y apaga el LED integrado de la placa desde Python por medio del puerto 
     4. Siga las instrucciones en pantalla.
 
 **HARDWARE:** ⚙
-- Placas: Arduino UNO R3, Arduino MKR1000, NodeMCU V1, ESP WROOM 32.
-- Actuadores: LED integrado en la placa.
+- Placas:
+    1. Arduino UNO R3 (Pin 13)
+    2. Arduino MKR1000 (Pin 6)
+    3. NodeMCU V1 (Pin 2)
+    4. ESP WROOM 32 (Pin 2)
 
 **SOFTWARE:** 💾
 - Aplicaciones:
