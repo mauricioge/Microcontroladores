@@ -17,7 +17,7 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 7. **[Creando mi servicio IOT](https://github.com/mauricioge/microcontroladores/tree/master/7.%20Creando%20mi%20servicio%20IoT)** Caso de estudio.
 8. **[Control de Acceso](https://github.com/mauricioge/microcontroladores/tree/master/8.%20Control%20de%20Acceso)** Caso de estudio.
 
-**HARDWARE:** 🔩
+**HARDWARE:** ⚙
 - Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
 - Actuadores, sensores o módulos: LEDs integrados, DHT11, MFRC522.
 
@@ -39,7 +39,7 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 - Placas (arduino drivers):
     + [ESP8266](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
     + [ESP32](http://dl.espressif.com/dl/package_esp32_index.json)
-- Cuentas gratuitas: ⚙☁⛅⛈
+- Cuentas gratuitas en la nube: ☁
     + [Firebase](https://firebase.google.com/)
     + [Adafruit IO](https://io.adafruit.com/)
     + [IFTTT](https://ifttt.com/)
