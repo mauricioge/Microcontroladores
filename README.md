@@ -1,27 +1,22 @@
+# microcontroladores
+
 ## RENUNCIA DE RESPONSABILIDAD: 📢
 El código incluído en este repositorio se ofrece **"como está"**, sin garantías o responsabilidad de ningún tipo. Usted es el único responsable de usarlo. Los scripts, incluyendo URLs y otras referencias a sitios en Internet, podrían cambiar sin previo aviso. Este documento no le autoriza a nada y no le faculta con ningún derecho legal ni propiedad intelectual. Puede copiar y usar este código con el único fin de usarlo como referencia personal.
-
-## REPOSITORIO: microcontroladores
 
 ### DESCRIPCIÓN: 🚀
 Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontroladores con otras Tecnologías.**
 
 **HARDWARE:**
 
-Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
-
+Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.  
 Actuadores, sensores o módulos: LEDs integrados, DHT11, MFRC522.
 
 **SOFTWARE:**
 
-Aplicaciones: Arduino IDE, Python IDE, MySQL (motor + herramientas cliente), Atom.
-
-Placas: ESP8266, ESP32
-
-Librerías Arduino: MySQL Connector, Firebase, Adafruit Sensor, etc.
-
-Librerías Python: pySerial, MySQL Connector, etc. 
-
+Aplicaciones: Arduino IDE, Python IDE, MySQL (motor + herramientas cliente), Atom.  
+Placas: ESP8266, ESP32  
+Librerías Arduino: MySQL Connector, Firebase, Adafruit Sensor, etc.  
+Librerías Python: pySerial, MySQL Connector, etc.  
 Cuentas gratuitas: Firebase, Adafruit IO, IFTTT, Hosting.
 
 **CONTENIDOS:**
