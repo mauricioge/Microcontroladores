@@ -11,21 +11,20 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 - Actuadores, sensores o módulos: LEDs integrados, DHT11, MFRC522.
 
 **SOFTWARE:**
-
 - Aplicaciones:
-+ Arduino IDE
-+ Python IDLE
-+ MySQL (motor + herramientas cliente), un editor de texto plano.
+    + Arduino IDE
+    + Python IDLE
+    + MySQL (motor + herramientas cliente), un editor de texto plano.
 - Placas (arduino drivers):
-+ ESP8266
-+ ESP32
+    + ESP8266
+    + ESP32
 - Librerías Arduino: MySQL Connector, Firebase, Adafruit Sensor, etc.
 - Librerías Python: pySerial, MySQL Connector, etc.
 - Cuentas gratuitas:
-+ Firebase
-+ Adafruit IO
-+ IFTTT
-+ Hosting
+    + Firebase
+    + Adafruit IO
+    + IFTTT
+    + Hosting
 
 **CONTENIDOS:**
 
