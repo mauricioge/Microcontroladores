@@ -18,7 +18,12 @@ Envía datos a Python por medio del puerto serial, los procesa y los muestra en 
     3. Ejecútelo.
 
 **HARDWARE:** ⚙
-- Placas: Arduino UNO R3, Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
+- Placas:
+    1. Arduino UNO R3
+    2. Arduino MKR1000
+    3. ESP-01
+    4. NodeMCU V1
+    5. ESP WROOM 32.
 
 **SOFTWARE:** 💾
 - Aplicaciones:
