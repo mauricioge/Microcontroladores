@@ -12,6 +12,14 @@ El código incluído en este repositorio se ofrece **"COMO ESTÁ"**, sin garant�
 6. Muestra mediante el monitor serial que recibió los datos.
 7. PHP muestra los datos almacenados.
 
+**ARCHIVOS:**
+- **sketch.ino**: Súbalo a la placa, ejecútelo y vea el puerto serial.
+- **secrets.h**: Contiene los datos de acceso a la red WiFi y los datos de acceso a MySQL.
+- **iot.php**: Recibe una petición HTTP con los datos que le envía la placa y los envía a MySQL.
+- **select.php**: Muestra los datos almacenados en MySQL.
+- **del.php**: Borra todos los registros almacenados en MySQL.
+- **create_table.sql**: Script para re-crear la estructura de la tabla "iot_th".
+
 **HARDWARE:** ⚙
 - Placas: Arduino MKR1000, ESP-01, NodeMCU V1, ESP WROOM 32.
 - Sensor: DHT11.
