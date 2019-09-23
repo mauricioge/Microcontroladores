@@ -8,6 +8,9 @@ El código incluído en este repositorio se ofrece **"COMO ESTÁ"**, sin garant�
 2. Envía datos a Python por medio del puerto serial, los procesa y los muestra.
 3. Envía datos a Python por medio del puerto serial, los procesa y los envía a MySQL.
 
+**ARCHIVOS:**
+- sketch.ino
+
 **HARDWARE:** ⚙
 - Placas: [Arduino MKR1000](https://store.arduino.cc/usa/arduino-mkr1000), ESP-01, NodeMCU V1, ESP WROOM 32.
 - Actuadores, sensores o módulos: LEDs integrados, DHT11, MFRC522.
