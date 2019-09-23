@@ -24,19 +24,19 @@ Código de los ejemplos usados en el seminario: **IoT: Comunicando Microcontrola
 **SOFTWARE:** 💾
 - Aplicaciones:
     + [Arduino IDE](https://www.arduino.cc/en/main/software/)
-        * Librerías:
-            - [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
-            - [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
-            - [Adafruit Sensor (de Adafruit)](https://github.com/adafruit/Adafruit_Sensor)
-            - [Adafruit DHT (de Adafruit)](https://github.com/adafruit/DHT-sensor-library)
-            - [Adafruit MQTT Library (de Adafruit)](https://github.com/adafruit/Adafruit_MQTT_Library)
     + [Python](https://www.python.org/downloads/)
-        * Librerías:
-            - [pyserial](https://pypi.org/project/pyserial/)
-            - [mysql connector python](https://pypi.org/project/mysql-connector-python/)
+- Librerías para Arduino:
+    + [MySQL Connector Arduino (de Dr. Charles Bell)](https://github.com/ChuckBell/MySQL_Connector_Arduino)
+    + [Firebase ESP8266 (de Mobitz)](https://github.com/mobizt/Firebase-ESP8266)
+    + [Adafruit Sensor (de Adafruit)](https://github.com/adafruit/Adafruit_Sensor)
+    + [Adafruit DHT (de Adafruit)](https://github.com/adafruit/DHT-sensor-library)
+    + [Adafruit MQTT Library (de Adafruit)](https://github.com/adafruit/Adafruit_MQTT_Library)
+- Librerías para Python:
+    + [pyserial](https://pypi.org/project/pyserial/)
+    + [mysql connector python](https://pypi.org/project/mysql-connector-python/)
     + [MySQL (motor + herramientas cliente)](https://dev.mysql.com/downloads/workbench/)
     + un editor de texto plano.
-- Placas (arduino drivers):
+- Placas (Arduino IDE/Archivo/Preferencias/Gestor de URLs Adicionales de Tarjetas/):
     + [ESP8266](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
     + [ESP32](http://dl.espressif.com/dl/package_esp32_index.json)
 - Cuentas gratuitas en la nube: ☁
