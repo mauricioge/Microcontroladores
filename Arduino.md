@@ -8,7 +8,7 @@ Los controladores que permiten a Arduino IDE compilar los sketch segun los reque
 ## **SOFTWARE:** 💾
 - Para instalar los controladores de las placas ESP-01, NodeMCU V1 y ESP WROOM 32:
     - Vaya a Arduino IDE/Archivo/Preferencias/Gestor de URLs Adicionales de Tarjetas/  
-    vea el recuadro rojo de la imagen.
+    vea el recuadro rojo de la siguiente imagen.
 ![alt text](https://github.com/mauricioge/microcontroladores/blob/master/images/arduino-preferences.png "Arduino IDE/Archivo/Preferencias/Gestor de URLs Adicionales de Tarjetas/")
 
     + ESP8266: http://arduino.esp8266.com/stable/package_esp8266com_index.json
